@@ -1,5 +1,6 @@
-[
-  {
+{
+ "data": 
+[{
     "Nom Com": "Aast",
     "Code Iris": 640010000,
     "Classement de SCORE GLOBAL region 1": 45786,
@@ -30659,4 +30660,4 @@
     "GLOBAL ACCES": 61,
     "GLOBAL COMPETENCES": 83
   }
-]
+]}
